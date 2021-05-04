@@ -2,7 +2,7 @@
 title: "Lab 5"
 author: "Ethan Dotzler"
 date: "2/23/2021"
-output: html_document
+output: github_document
 ---
 
 This lab was about learning how to rename variables, create new variables within a dataset, summarize a dataset in general and by groups, and to visualize relationships between variables. 
